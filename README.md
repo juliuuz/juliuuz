@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 🤔
-- 🌱 I’m currently learning 🦕 `Deno`
+- 🌱 I’m currently learning Deno 🦕
 
 #### Tech Stacks ⚡
 
@@ -9,7 +9,7 @@
 - 💻 `Javascript`
 - 🛢️ `SQL Server`
 - 🦕 `Deno`
-* :octocat: `Git | Github`
+- :octocat: `Git | Github`
 - ⚡ `React Native`
 - ⚡ `Create React App`
 - ⚡ `Next.js`
@@ -19,7 +19,7 @@
 - ⚡ `WPF`
 - ⚡ `Node.js`
 - ⚡ `Electron`
-- ⚡ `Docker`
+- 🐳 `Docker`
 - ⚡ `Azure`
 
 
