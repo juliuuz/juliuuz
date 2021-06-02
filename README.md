@@ -21,6 +21,7 @@
 - ⚡ `Electron`
 - 🐳 `Docker`
 - ⚡ `Azure`
+- ⚡ `Kubernetes`
 
 
 <!--
