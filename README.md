@@ -5,11 +5,13 @@
 
 #### Tech Stacks ⚡
 
-- 🌐 `HTML | SASS`
-- 💻 `Javascript`
+- 🌐 `HTML | SASS | Styled`
+- 💻 `Typescript | Javascript`
 - 🛢️ `SQL Server`
 - 🦕 `Deno`
+- ⚡`Vite`
 - :octocat: `Git | Github`
+- ⚡ `.NET`
 - ⚡ `React Native`
 - ⚡ `Create React App`
 - ⚡ `Next.js`
